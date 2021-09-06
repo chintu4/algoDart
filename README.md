@@ -1,2 +1,3 @@
-# savetypeing
-this repo contain file which just help you to save you key stroke for repeated or regular commands
+# algoDart
+this repo contain functions which usefull during dart projects
+* File manupulation function
